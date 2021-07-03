@@ -19,7 +19,7 @@
     <dependency>
 	    <groupId>org.hibernate</groupId>
 	    <artifactId>hibernate-entitymanager</artifactId>
-	    <version>5.3.10.Final</version> 
+	    <version>5.3.13.Final</version> 
 	    <!-- 
 	     버전 선택은 어떤것을 할까? Spring Boot와 같이 사용한다면?
 	    - https://spring.io/projects/spring-boot#learn에 접속하여 
